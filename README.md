@@ -14,3 +14,4 @@ change 4 with fetch
 
 change for pull.
 Change 5 is done to mitigate the errors.
+change6 is done to checkout after commit.
